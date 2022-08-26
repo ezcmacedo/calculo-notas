@@ -1,0 +1,26 @@
+{
+  "name": "calculo-notas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "serve -s src/",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezcmacedo/calculo-notas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezcmacedo/calculo-notas/issues"
+  },
+  "homepage": "https://github.com/ezcmacedo/calculo-notas#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "serve": "^14.0.1"
+  },
+  "keywords": []
+}
